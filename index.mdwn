@@ -1,0 +1,13 @@
+[[!meta title="Project Index"]]
+
+<!-- DO NOT EDIT THIS PAGE -->
+
+[[!inline pages="title" raw=yes]]
+
+[[!inline pages="summary" raw=yes]]
+
+# Links
+
+* [[List of nice things|nice_things/nice-things]]
+
+[[!inline pages="links" raw=yes]]

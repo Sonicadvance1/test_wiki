@@ -1,0 +1,23 @@
+[[!meta title="Nice things to have list"]]
+
+As an ongoing project, there are always things that are wanted to be done but there aren't enough hours in the day for the active developers to get
+done.
+Here is a list of some of the things that would be nice to have
+
+# List of Things
+## Easy
+-	Improvements to the Android UI
+-	[[Improvements to the QT UI|qt_ui_improvements]]
+
+## Moderately Difficult
+-	AArch64 NEON texture decoder
+-	Layered configuration options
+-	Direct3D post processing shaders
+
+## Hard
+-	AArch64 Vertex Loader JIT recompiler
+-	GPU Texture decoder
+
+## Time consuming
+-	Create a libdolphin
+

@@ -1,0 +1,20 @@
+[[!meta title="Improvements that can be done to the QT UI"]]
+
+The QT UI is far from complete and requires a lot of love to be finished.
+A large majority of these things are fairly simple, just require time put towards it.
+
+#List of things
+## Easy
+-	Start a debugger UI
+	-	Create the Window
+	-	Create the toolbar
+	-	Show instruction disassembly
+
+## Moderate
+-	Create a functional API between the core and UI
+	-	Allows multiple UIs to use the same API
+	-	Can begin libdolphin
+
+## Hard
+-	**None Currently**
+
